@@ -55,7 +55,8 @@ header {
 .header-links li a,
 .social-links li a {
   text-decoration: none;
-  color: #fcf8f8;
+  color:  #000000;
+  font-size: 27px;
   transition: color 0.3s ease;
 }
 
