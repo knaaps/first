@@ -85,7 +85,7 @@ header {
 }
 
 .profile-photo img {
-  max-width: 100%;
+  max-width: 126%;
   height: auto;
   transition: transform 0.6s ease;
 }
