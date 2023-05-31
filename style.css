@@ -67,6 +67,16 @@ header {
 
 /* Section styles */
 
+.section {
+  padding: 100px 0;
+}
+
+.home-content {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
 .detel{
     margin-left: 8%;
     margin-top: 15%;
