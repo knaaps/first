@@ -68,16 +68,21 @@ header {
 /* Section styles */
 
 .section {
-  padding: 80px 0;
+  padding: 100px 0;
 }
+
 .home-content {
   display: flex;
   justify-content: space-between;
+  align-items: center;
 }
+
 .home-description {
-    margin-left: 8%;
-    margin-top: 15%;
+   width: 60%;
+   margin-left: 8%;
+   margin-top: 15%;
 }
+
 .home-description h1{
     font-size: 50px;
     color: #212121;
