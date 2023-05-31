@@ -68,18 +68,17 @@ header {
 /* Section styles */
 
 .section {
-  padding: 100px 0;
+  padding: 80px 0;
 }
 .home-content {
   display: flex;
   justify-content: space-between;
-  align-items: center;
 }
 .home-description {
     margin-left: 8%;
     margin-top: 15%;
 }
-.detel h1{
+.home-description h1{
     font-size: 50px;
     color: #212121;
     margin-bottom: 20px;
@@ -88,12 +87,12 @@ span{
     color: orange;    
 }
 
-.detel p{
+.home-description p{
     color: #555;
     line-height: 22px;
 }
 
-.detel a{
+.home-description a{
     background: #212121;
     padding: 10px 18px;
     text-decoration: none;
