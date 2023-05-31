@@ -70,27 +70,22 @@ header {
 .section {
   padding: 100px 0;
 }
-
 .home-content {
   display: flex;
   justify-content: space-between;
   align-items: center;
 }
-
-.detel{
+.home-description {
     margin-left: 8%;
     margin-top: 15%;
 }
-
 .detel h1{
     font-size: 50px;
     color: #212121;
     margin-bottom: 20px;
 }
-
 span{
-    color: orange;
-    
+    color: orange;    
 }
 
 .detel p{
