@@ -67,18 +67,7 @@ header {
 
 /* Section styles */
 
-.section {
-  padding: 100px 0;
-}
-
-.home-content {
-  display: flex;
-  justify-content: space-between;
-  align-items: center;
-}
-
 .home-description {
-   width: 60%;
    margin-left: 8%;
    margin-top: 15%;
 }
@@ -106,20 +95,6 @@ span{
     display: inline-block;
     margin: 30px 0;
     border-radius: 5px;
-}
-
-.profile-photo {
-  width: 45%;
-}
-
-.profile-photo img {
-  max-width: 126%;
-  height: auto;
-  transition: transform 0.6s ease;
-}
-
-.profile-photo img:hover {
-  transform: scale(1.1);
 }
 
 .logo img {
